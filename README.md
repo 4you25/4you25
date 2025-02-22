@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Marek Mosat</h1>
+<h1>Hi 👋, I'm Marek Mosat from Slovakia</h1>
 <p>Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here, you'll find a collection of my projects, contributions, and collaborations. Feel free to explore and connect with me!</p>
 <p>## About Me</p>
 

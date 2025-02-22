@@ -23,3 +23,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/marek-mo%C5%A1a%C5%A5-24914828/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/marek.mosat" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@4you251" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
+## GitHub Stats
+
+![4you25's GitHub stats](https://github-readme-stats.vercel.app/api?username=4you25&show_icons=true&theme=radical)
